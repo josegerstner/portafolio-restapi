@@ -64,3 +64,9 @@ export const getProjects = async (req, res) => {
         })
     }
 }
+
+export const getInfo = async (req, res) => {
+    res.status(200).json({
+        message: 'Esta aplicación está construida con NodeJS'
+    })
+}
