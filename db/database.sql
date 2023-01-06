@@ -185,6 +185,13 @@ INSERT INTO projects VALUES
         "scaloneta.png",
         "https://scaloneta-museum.web.app/",
         "https://github.com/josegerstner/scaloneta-museum"
+    ),(
+        3,
+        "Portafolio API",
+        "Node js",
+        "backend.png",
+        "https://portafolio-restapi-production.up.railway.app/api/",
+        "https://github.com/josegerstner/portafolio-restapi"
     );
         
 
